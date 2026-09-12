@@ -1,0 +1,6 @@
+interface:
+  display_name: "Harness Review"
+  short_description: "運用ログから改善候補を提案"
+  default_prompt: "$harness-review を起動し、worklogに基づく改善候補を根拠付きで提案する。"
+policy:
+  allow_implicit_invocation: false

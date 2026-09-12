@@ -1,0 +1,16 @@
+# OS / editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local runtime output
+*.log
+*.tmp
+*.bak.*
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
